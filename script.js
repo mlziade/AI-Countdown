@@ -58,8 +58,8 @@ class AIJobsCountdown {
         this.months = 6;
         this.days = 0;
         this.hours = 0;
-        this.minutes = 0;
-        this.seconds = 33;
+        this.minutes = 1;
+        this.seconds = 5;
     }
     
     startCountdown() {
